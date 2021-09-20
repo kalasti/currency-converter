@@ -1,0 +1,10 @@
+// Rates compared to US dollar 
+
+USD: 1.00, // US Dollar
+CAD: 1.27, // Canadian Dollar
+EUR: 0.85, // Euro
+JPY: 109.70, // Japanese Yen
+GBP: 0.72, // British Pound
+CHF: 0.92, // Swiss Franc
+AUD: 1.36, // Australian Dollar
+NZD: 1.41, // New Zealand Dollar
