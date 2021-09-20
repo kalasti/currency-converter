@@ -1,1 +1,2 @@
-# currency-converter
+# Currency Converter
+# C++ Take input txt file. 
